@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**clark-atim/clark-atim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m currently a student pursuing my studies in **Computer Science**. I have a keen interest in **software development, artificial intelligence, and web technologies**, and I'm passionate about learning and building cool projects.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: **Python, JavaScript, and Machine Learning basics**
+- 👨‍💻 I enjoy working on: **personal projects, solving coding challenges, and exploring open-source tools**
+- 📫 How to reach me: **my.email@school.edu**
+- ⚡ Fun fact: **I love solving puzzles and gaming in my free time!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills and Tools
+Here are some of the technologies and tools I use:
+
+- **Programming Languages:** Python, JavaScript, C++
+- **Frameworks and Libraries:** React, Flask, NumPy
+- **Tools:** Git, VS Code, Jupyter Notebooks, GitHub
