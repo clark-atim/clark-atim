@@ -5,7 +5,7 @@ I’m currently a student pursuing my studies in **Computer Science**. I have a 
 
 - 🌱 I’m currently learning: **Python, JavaScript, and Machine Learning basics**
 - 👨‍💻 I enjoy working on: **personal projects, solving coding challenges, and exploring open-source tools**
-- 📫 How to reach me: **my.email@school.edu**
+- 📫 How to reach me: *atim.adrienneclark@auf.edu.ph**
 - ⚡ Fun fact: **I love solving puzzles and gaming in my free time!**
 
 ---
