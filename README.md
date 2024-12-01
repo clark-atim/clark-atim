@@ -13,6 +13,6 @@ I’m currently a student pursuing my studies in **Computer Science**. I have a 
 ## 🛠️ Skills and Tools
 Here are some of the technologies and tools I use:
 
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks and Libraries:** React, Flask, NumPy
+- **Programming Languages:** Python, Java, Javascript, C#
+- **Frameworks and Libraries:** React, Pytorch, Pandas, NumPy
 - **Tools:** Git, VS Code, Jupyter Notebooks, GitHub
